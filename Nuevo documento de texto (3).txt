@@ -3,6 +3,7 @@ git remote add ... URL
 
 git add ....
 git commit -m ....
+GIT CLONEEE
 git fetch
 git status
 git pull
