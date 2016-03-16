@@ -1,0 +1,9 @@
+git init ...
+git remote add ... URL
+
+git add ....
+git commit -m ....
+git fetch
+git status
+git pull
+git log
